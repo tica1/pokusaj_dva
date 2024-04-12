@@ -3,3 +3,5 @@ bla bla
 Izmena sa grane 1.
 
 Nema konflikata.
+
+Izmena koja treba da se pregleda
