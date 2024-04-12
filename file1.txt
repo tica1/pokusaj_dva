@@ -2,4 +2,4 @@ bla bla
 
 Izmena sa grane 1.
 
-Konfliktna izmena sa mastera.
+Nema konflikata.
